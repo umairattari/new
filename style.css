@@ -1,0 +1,29 @@
+h1{
+    margin-left: 500px;
+}
+  
+ #clear{
+     width: 155px;
+ }
+
+ .formstyle{
+     width: 160px;
+     height: 271px;
+     margin: 0 auto;
+     border: 2px solid black;
+ }
+
+ input{
+     width:50px;
+     background-color:yellow;
+     
+ }
+
+ #answerstyle{
+     width:156px;
+     height:30px;
+ }
+
+body{
+   background-color: burlywood;
+}
